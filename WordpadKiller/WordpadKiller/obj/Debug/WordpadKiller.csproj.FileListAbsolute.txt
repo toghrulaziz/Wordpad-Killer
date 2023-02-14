@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Wordpad Killer\WordpadKiller\WordpadKiller\bin\Debug\WordpadKiller.exe.config
+C:\Users\User\Desktop\Wordpad Killer\WordpadKiller\WordpadKiller\bin\Debug\WordpadKiller.exe
+C:\Users\User\Desktop\Wordpad Killer\WordpadKiller\WordpadKiller\bin\Debug\WordpadKiller.pdb
+C:\Users\User\Desktop\Wordpad Killer\WordpadKiller\WordpadKiller\obj\Debug\WordpadKiller.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Wordpad Killer\WordpadKiller\WordpadKiller\obj\Debug\WordpadKiller.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Wordpad Killer\WordpadKiller\WordpadKiller\obj\Debug\WordpadKiller.Form1.resources
+C:\Users\User\Desktop\Wordpad Killer\WordpadKiller\WordpadKiller\obj\Debug\WordpadKiller.Properties.Resources.resources
+C:\Users\User\Desktop\Wordpad Killer\WordpadKiller\WordpadKiller\obj\Debug\WordpadKiller.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Wordpad Killer\WordpadKiller\WordpadKiller\obj\Debug\WordpadKiller.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Wordpad Killer\WordpadKiller\WordpadKiller\obj\Debug\WordpadKiller.exe
+C:\Users\User\Desktop\Wordpad Killer\WordpadKiller\WordpadKiller\obj\Debug\WordpadKiller.pdb
